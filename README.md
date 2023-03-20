@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilliamOverflow
 <!---- 👀 I’m interested in ...--->
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently studying Artificial Intelligence
 <!---- 💞️ I’m looking to collaborate on ...--->
 <!---#- 📫 How to reach me --->
 
